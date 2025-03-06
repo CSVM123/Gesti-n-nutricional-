@@ -1,7 +1,7 @@
-  # Sistema Inteligente de Gestión Nutricional  
+  # Sistema de Gestión Nutricional  
 
 ## Descripción  
-Este sistema permite a los usuarios gestionar su alimentación de manera inteligente, proporcionando recomendaciones basadas en datos para mejorar su nutrición.  
+Este sistema permite a los usuarios gestionar su alimentación de manera eficiente, proporcionando recomendaciones basadas en datos para mejorar su nutrición.  
 
 ## Integrantes  
 Cristian Santiago Vanegas Martinez 
